@@ -1,5 +1,7 @@
 # MERN Authentication
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/mern-auth)
+
 The repository contains:
 
 * Distributed code from **eCentennial** used to build a **MERN Authentication** application.
