@@ -16,5 +16,5 @@
       ]
     }
   },
-  "postAttachCommand": "yarn"
+  "postCreateCommand": "yarn && cd client && yarn",
 }
