@@ -1,6 +1,6 @@
-# MERN Authentication
+# Navbar
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/mern-auth)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/navbar)
 
 The repository contains:
 
